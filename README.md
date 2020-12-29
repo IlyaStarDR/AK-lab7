@@ -160,7 +160,7 @@ module_exit(hello1_exit);
 
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_DESCRIPTION("AK-2 lab_7 advanced task: hello1\n");
-MODULE_AUTHOR("Illia Starodubtcev IV-82\n");
+MODULE_AUTHOR("Illia Starodubtcev, Averkova Anastasiia IV-82\n");
 
 static uint n = 1;
 module_param(n, uint, 0444);
