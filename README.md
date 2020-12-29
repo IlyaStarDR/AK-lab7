@@ -63,7 +63,7 @@ int print_hello(uint iterations);
 #define DEBUG
 
 MODULE_LICENSE("Dual BSD/GPL");
-MODULE_DESCRIPTION("AK-2 lab_7 advanced task: hello1\n");
+MODULE_DESCRIPTION("AK-2 lab_7 Basic1 task: hello1\n");
 MODULE_AUTHOR("Illia Starodubtcev IV-82\n");
 
 static struct my_list_head *head;
